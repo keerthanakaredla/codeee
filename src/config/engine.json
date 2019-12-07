@@ -16,9 +16,14 @@
     "id"
   ],
   "sortFields": [
+    "cost",
+    "date"
 
   ],
   "facets": [
+    "location",
+    "cost",
+    "organization"
 
   ]
 }
